@@ -64,7 +64,7 @@ artificial intelligence, full-stack development, and DevOps.
 
 ## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraaMasri28&bg_color=00000000&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraaAlmasri&bg_color=00000000&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 <br>
 
