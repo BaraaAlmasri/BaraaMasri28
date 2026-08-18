@@ -60,9 +60,11 @@ artificial intelligence, full-stack development, and DevOps.
 
 <br>
 
-## GitHub Streak
+<br>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BaraaMasri28&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+## GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaraaMasri28&bg_color=00000000&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 <br>
 
