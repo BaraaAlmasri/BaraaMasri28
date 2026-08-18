@@ -62,7 +62,7 @@ artificial intelligence, full-stack development, and DevOps.
 
 ## GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=BaraaMasri28&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=BaraaMasri28&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
 <br>
 
