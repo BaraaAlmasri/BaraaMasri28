@@ -60,6 +60,12 @@ artificial intelligence, full-stack development, and DevOps.
 
 <br>
 
+## GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=BaraaMasri28&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+
+<br>
+
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/baraamasri/">
